@@ -22,9 +22,7 @@ existing note or creating a new one in a single action.
 
 This option is available when running `zk edit --interactive`, which spawns
 [`fzf`](../config/tool-fzf.md) to filter selected notes. From `fzf`, press `Ctrl-E` to
-create a new note using the current search query as title. The note is created
-in the directory `zk edit` was run from, or in the directory passed as
-argument.
+create a new note using the current search query as title.
 
 ## Create a note with initial content
 

@@ -12,8 +12,7 @@ Format: `<description> (by <contributor>, <pr number>)`
 - Resolve links with a leading slash against the notebook root, falling back to
   the filesystem for absolute paths (by @zmre, 745)
 - Use the working directory as the target of the `edit --interactive` new note
-  fzf binding, so the config group of the current directory is honored (by
-  @skbolton, 768)
+  fzf binding (by @skbolton, 768)
 
 ## 0.15.6
 
